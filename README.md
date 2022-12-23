@@ -20,7 +20,7 @@ The domain name will be printed at the end of this command.
 This will also create an rsa keypair, used for ssh, if it doesn't already exist.
 
 
-### Ssh into Webserver
+### ssh into Webserver
 ```console
 $ ./ssh.sh
 ```
